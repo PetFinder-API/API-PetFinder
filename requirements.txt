@@ -1,0 +1,6 @@
+Flask
+torch
+timm
+fastcore
+torchvision
+Pillow
